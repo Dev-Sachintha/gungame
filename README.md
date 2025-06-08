@@ -3,6 +3,12 @@
 **Tactical Survivor** is a top-down tactical survival game developed in Python using Pygame and NumPy. Built from scratch, this game combines real-time combat, intelligent enemy AI, and procedural systems to deliver a challenging and engaging experience.
 
 ---
+## vedio Demo
+
+
+https://github.com/user-attachments/assets/8fa22678-de67-4ae7-904f-763a1f4ada41
+
+
 
 ##  Features
 
